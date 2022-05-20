@@ -1,0 +1,2 @@
+# wp-plugin-blank
+TEST
